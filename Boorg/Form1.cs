@@ -15,5 +15,10 @@ namespace Boorg
         {
             InitializeComponent();
         }
+
+        private void btnBeenden_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
