@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Boorg
 {
-    public partial class Form1 : Form
+    public partial class frmBoorg : Form
     {
-        public Form1()
+        public frmBoorg()
         {
             InitializeComponent();
         }
